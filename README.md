@@ -4,7 +4,7 @@ This Python project simulates two classic page replacement algorithms: **LRU (Le
 
 ---
 
-## 📌 Features
+##  Features
 
 - Simulation of **100 randomly generated** page reference sequences
 - Implementation of both **LRU** and **LFU** algorithms
@@ -13,7 +13,7 @@ This Python project simulates two classic page replacement algorithms: **LRU (Le
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. Generates 100 random sequences of memory page references
 2. Applies both LFU and LRU algorithms to each sequence
@@ -24,14 +24,14 @@ This Python project simulates two classic page replacement algorithms: **LRU (Le
 
 ---
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
 - **LRU (Least Recently Used)**: Replaces the page that was used least recently.
 - **LFU (Least Frequently Used)**: Replaces the page with the lowest access frequency.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 LRU-and-LFU-simulation/
@@ -47,7 +47,7 @@ LRU-and-LFU-simulation/
 
 ---
 
-## ▶️ Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -71,7 +71,7 @@ python main.py
 
 ---
 
-## 📊 Output Example
+##  Output Example
 
 ```text
 Average number of faults (LFU): 83.42
@@ -82,19 +82,19 @@ Results are also saved to `page_references_and_faults.csv` in a structured forma
 
 ---
 
-## 📎 Requirements
+## Requirements
 
 This project uses only built-in Python libraries, so **no external packages** are required.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Mikołaj Matusik**  
 [GitHub: MikoMatusIndustry](https://github.com/MikoMatusIndustry)
 
 ---
 
-## 📜 License
+##  License
 
 This project is open source and available under the [MIT License].
